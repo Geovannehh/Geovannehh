@@ -8,7 +8,7 @@ Transformando designs em experiências digitais cativantes. Sou apaixonado por c
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Atuo na área de suporte de TI e administração de laboratórios na **Universidade Ceuma**.
+- 🎓 Atuo na área de suporte de TI e administração de laboratórios na **Universidade Ceuma**, alem de Suporte as Usuarios de toda a IES em ralção o uso do computador, sistemas e manutenção. Alem disso faço parte da equipe do campus I - UNIVERSIDADE CEUMA que presta suporte para os demais campus que são: Universidade Ceuma (UNICEUMA): Sediada no Maranhão, com campi principais em São Luís (Renascença, Turu/Cohama, Deodoro) e unidades no interior em Bacabal e Imperatriz. Centro Universitário Unieuro: Sediado no Distrito Federal (unidades na Asa Sul, Asa Norte e Águas Claras).Centro Universitário Unifamaz: Localizado em Belém, no Pará. Faculdade Ceupi: Localizada em Teresina, no Piauí. Faculdade CESUP: Localizada em Palmas, no Tocantins.Faculdade CESUT: Também localizada no Tocantins
 - 🌱 Meu foco principal é o ecossistema **Front-End (HTML, CSS e JavaScript)**.
 - ⚙️ Também exploroo e desenvolvoo soluções utilizando **Python** e **Java** para entender o sistema como um todo.
 - 🤖 Tenho grande interesse por tecnologia educacional e projetos de **Robótica**.
@@ -73,7 +73,8 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
   <tr>
     <td width="60%">
       <ul>
-        <li>🎓 Atuo na área de suporte de TI e administração de laboratórios na <b>Universidade Ceuma</b>.</li>
+        <li>🎓 Atuo na área de suporte de TI e administração de laboratórios alem de suporte aos setores administrativos por toda IES na <b>Universidade Ceuma</b>.
+          Universidade Ceuma (UNICEUMA): Sediada no Maranhão, com campi principais em São Luís (Renascença, Turu/Cohama, Deodoro) e unidades no interior em Bacabal e Imperatriz.Centro Universitário Unieuro: Sediado no               Distrito Federal (unidades na Asa Sul, Asa Norte e Águas Claras).Centro Universitário Unifamaz: Localizado em Belém, no Pará.Faculdade Ceupi: Localizada em Teresina, no Piauí.Faculdade CESUP: Localizada em                 Palmas, no Tocantins.Faculdade CESUT: Também localizada no Tocantins </li>
         <li>🌱 Mestre das interfaces focando no ecossistema <b>Front-End (HTML, CSS e JavaScript)</b>.</li>
         <li>⚙️ Expandindo a base de dados estudando o Back-End com <b>Python</b> e <b>Java</b>.</li>
         <li>🤖 Entusiasta de <b>Robótica</b> e montagem de <b>Setups e Hardware</b> (sempre de olho nas peças novas!).</li>
