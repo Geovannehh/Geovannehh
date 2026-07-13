@@ -84,7 +84,7 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
     </td>
     <td width="40%" align="center">
       <!-- GIF Nerd/Anime lateral -->
-      <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="250" alt="Anime Hacker Boy" style="border-radius: 10px;" />
+      <img src="https://media.giphy.com/media/y0NFayaBeiWEU/giphy.gif" width="250" alt="Anime Hacker Boy" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
