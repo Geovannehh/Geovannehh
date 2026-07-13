@@ -10,7 +10,7 @@ Transformando designs em experiências digitais cativantes. Sou apaixonado por c
 
 - 🎓 Atuo na área de suporte de TI e administração de laboratórios na **Universidade Ceuma**.
 - 🌱 Meu foco principal é o ecossistema **Front-End (HTML, CSS e JavaScript)**.
-- ⚙️ Também exploro e desenvolvo soluções utilizando **Python** e **Java** para entender o sistema como um todo.
+- ⚙️ Também exploroo e desenvolvoo soluções utilizando **Python** e **Java** para entender o sistema como um todo.
 - 🤖 Tenho grande interesse por tecnologia educacional e projetos de **Robótica**.
 - ⚡ **Curiosidades:** Fora do código, sou fascinado por hardware e setups de PC, curto um bom Rock na playlist para focar (especialmente Guns N' Roses) e sou fã da cultura japonesa, animes e mangás.
 
