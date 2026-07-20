@@ -27,13 +27,19 @@ Além disso, faço parte da equipe do Campus I (Sede - Universidade Ceuma), que 
 
 <!-- Se for um arquivo de VÍDEO (.mp4), use a tag abaixo (lembre-se de colocar o arquivo de vídeo na mesma pasta do README e alterar 'seu-video.mp4' para o nome correto) -->
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/fb91704d-eec6-46b9-8df4-29e32848bbd1" width="600" controls>
+  <video src="" width="600" controls>
     Seu navegador não suporta a tag de vídeo.
   </video>
 </div>
 
 
-https://github.com/user-attachments/assets/fb91704d-eec6-46b9-8df4-29e32848bbd1
+
+
+
+
+
+
+
 
 
 
