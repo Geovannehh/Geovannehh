@@ -27,21 +27,11 @@ Além disso, faço parte da equipe do Campus I (Sede - Universidade Ceuma), que 
 
 <!-- Se for um arquivo de VÍDEO (.mp4), use a tag abaixo (lembre-se de colocar o arquivo de vídeo na mesma pasta do README e alterar 'seu-video.mp4' para o nome correto) -->
 <div align="center">
-  <video src="" width="600" controls>
+  <video src="https://github.com/user-attachments/assets/8ae9e6f4-b1e5-48c7-bb80-956bd5b260c7" width="600" controls>
     Seu navegador não suporta a tag de vídeo.
   </video>
 </div>
-
-
-
-
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/8ae9e6f4-b1e5-48c7-bb80-956bd5b260c7
 
 - 🌱 Meu foco principal é o ecossistema **Front-End (HTML, CSS e JavaScript)**.
 - ⚙️ Também exploroo e desenvolvoo soluções utilizando **Python** e **Java** para entender o sistema como um todo.
