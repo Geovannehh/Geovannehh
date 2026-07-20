@@ -10,9 +10,9 @@ Transformando designs em experiências digitais cativantes. Sou apaixonado por c
 
 # 🎓 Atuação Profissional - Suporte de TI
 
-Atuo na área de suporte de TI e administração de laboratórios na **Universidade Ceuma**, prestando suporte aos usuários de toda a IES em relação ao uso de computadores, sistemas e manutenção geral.
+Atuo como profissional de Tecnologia da Informação na Universidade Ceuma, com experiência no atendimento resolutivo aos usuários da instituição em demandas de software, hardware e manutenção. Como membro da equipe matriz (Campus I), atuo no suporte remoto e integrado às demais unidades do grupo em âmbito nacional, onde desempenho um papel estratégico garantindo a excelência tecnológica não apenas para a sede, mas para todo o ecossistema nacional do grupo educacional. Nossa abrangência de suporte inclui:
 
-Além disso, faço parte da equipe do Campus I (Sede - Universidade Ceuma), que presta suporte não apenas localmente, mas também para os demais campi e instituições do grupo, que incluem:
+ Campus I (Sede - Universidade Ceuma), que presta suporte não apenas localmente, mas também para os demais campi e instituições do grupo, que incluem:
 
 - 🏢 **Universidade Ceuma (UNICEUMA):** Sediada no Maranhão, com campi principais em São Luís (Renascença, Turu/Cohama, Deodoro) e unidades no interior em Bacabal e Imperatriz.
 - 🏢 **Centro Universitário Unieuro:** Sediado no Distrito Federal (unidades na Asa Sul, Asa Norte e Águas Claras).
@@ -31,7 +31,7 @@ Além disso, faço parte da equipe do Campus I (Sede - Universidade Ceuma), que 
     Seu navegador não suporta a tag de vídeo.
   </video>
 </div>
-https://github.com/user-attachments/assets/8ae9e6f4-b1e5-48c7-bb80-956bd5b260c7
+<!-- https://github.com/user-attachments/assets/8ae9e6f4-b1e5-48c7-bb80-956bd5b260c7 -->
 
 - 🌱 Meu foco principal é o ecossistema **Front-End (HTML, CSS e JavaScript)**.
 - ⚙️ Também exploroo e desenvolvoo soluções utilizando **Python** e **Java** para entender o sistema como um todo.
