@@ -143,3 +143,4 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="Pixel Art Computer" />
   <p><i>"System.out.println('Vamos construir algo incrível!');"</i></p>
 </div>
+<a href="https://app.rocketseat.com.br/me/geovane-paixao"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=geovane-paixao&type=card" width="280" alt="GEOVANE DA PAIXAO SILVA's Rocket ID"/></a>
