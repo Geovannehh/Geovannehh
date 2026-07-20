@@ -8,7 +8,31 @@ Transformando designs em experiências digitais cativantes. Sou apaixonado por c
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Atuo na área de suporte de TI e administração de laboratórios na **Universidade Ceuma**, alem de Suporte as Usuarios de toda a IES em ralção o uso do computador, sistemas e manutenção. Alem disso faço parte da equipe do campus I - UNIVERSIDADE CEUMA que presta suporte para os demais campus que são: Universidade Ceuma (UNICEUMA): Sediada no Maranhão, com campi principais em São Luís (Renascença, Turu/Cohama, Deodoro) e unidades no interior em Bacabal e Imperatriz. Centro Universitário Unieuro: Sediado no Distrito Federal (unidades na Asa Sul, Asa Norte e Águas Claras).Centro Universitário Unifamaz: Localizado em Belém, no Pará. Faculdade Ceupi: Localizada em Teresina, no Piauí. Faculdade CESUP: Localizada em Palmas, no Tocantins.Faculdade CESUT: Também localizada no Tocantins
+# 🎓 Atuação Profissional - Suporte de TI
+
+Atuo na área de suporte de TI e administração de laboratórios na **Universidade Ceuma**, prestando suporte aos usuários de toda a IES em relação ao uso de computadores, sistemas e manutenção geral.
+
+Além disso, faço parte da equipe do Campus I (Sede - Universidade Ceuma), que presta suporte não apenas localmente, mas também para os demais campi e instituições do grupo, que incluem:
+
+- 🏢 **Universidade Ceuma (UNICEUMA):** Sediada no Maranhão, com campi principais em São Luís (Renascença, Turu/Cohama, Deodoro) e unidades no interior em Bacabal e Imperatriz.
+- 🏢 **Centro Universitário Unieuro:** Sediado no Distrito Federal (unidades na Asa Sul, Asa Norte e Águas Claras).
+- 🏢 **Centro Universitário Unifamaz:** Localizado em Belém, no Pará.
+- 🏢 **Faculdade Ceupi:** Localizada em Teresina, no Piauí.
+- 🏢 **Faculdade CESUP:** Localizada em Palmas, no Tocantins.
+- 🏢 **Faculdade CESUT:** Também localizada no Tocantins.
+
+---
+
+### 📹 Demonstração / Anexo
+
+<!-- Se for um arquivo de VÍDEO (.mp4), use a tag abaixo (lembre-se de colocar o arquivo de vídeo na mesma pasta do README e alterar 'seu-video.mp4' para o nome correto) -->
+<div align="center">
+  <video src="seu-video.mp4" width="600" controls>
+    Seu navegador não suporta a tag de vídeo.
+  </video>
+</div>
+
+
 - 🌱 Meu foco principal é o ecossistema **Front-End (HTML, CSS e JavaScript)**.
 - ⚙️ Também exploroo e desenvolvoo soluções utilizando **Python** e **Java** para entender o sistema como um todo.
 - 🤖 Tenho grande interesse por tecnologia educacional e projetos de **Robótica**.
