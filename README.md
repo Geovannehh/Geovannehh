@@ -175,8 +175,6 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Geovannehh/Geovannehh/main/dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Geovannehh/Geovannehh/main/light.svg">
   <img alt="Geovane Paixão"
     src="https://raw.githubusercontent.com/Geovannehh/Geovannehh/main/light.svg">
 </picture>
