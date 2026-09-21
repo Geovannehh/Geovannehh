@@ -1,5 +1,5 @@
 <img width="1180" height="610" alt="dark" src="https://github.com/user-attachments/assets/366bbf3c-03b9-49cf-8e45-1ddb3898b01c" />
-<img width="1180" height="610" alt="dark" src="https://github.com/user-attachments/assets/5ca849bf-23cd-4c6e-bcfd-9df23126da0c" />
+
 # Olá, eu sou o Geovane! 👋
 
 ### 🖥️💻 Desenvolvedor Front-End em busca de pixel-perfection! 💻🖥️
