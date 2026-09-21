@@ -98,8 +98,7 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
   <tr>
     <td width="60%">
       <ul>
-        <li>🎓 Atuo na área de suporte de TI e administração de laboratórios alem de suporte aos setores administrativos por toda IES na <b>Universidade Ceuma</b>.
-          Universidade Ceuma (UNICEUMA): Sediada no Maranhão, com campi principais em São Luís (Renascença, Turu/Cohama, Deodoro) e unidades no interior em Bacabal e Imperatriz.Centro Universitário Unieuro: Sediado no               Distrito Federal (unidades na Asa Sul, Asa Norte e Águas Claras).Centro Universitário Unifamaz: Localizado em Belém, no Pará.Faculdade Ceupi: Localizada em Teresina, no Piauí.Faculdade CESUP: Localizada em                 Palmas, no Tocantins.Faculdade CESUT: Também localizada no Tocantins </li>
+        <li>🎓 Profissional de Tecnologia da Informação na Universidade Ceuma (Campus I - Sede), atuando no suporte resolutivo em hardware, software e atendimento integrado a todo o ecossistema nacional do grupo educacional, que abrange a Universidade Ceuma (MA), Centro Universitário Unieuro (DF), Centro Universitário Unifamaz (PA), Faculdade Ceupi (PI), Faculdade CESUP (TO) e Faculdade CESUT (TO). </li>
         <li>🌱 Mestre das interfaces focando no ecossistema <b>Front-End (HTML, CSS e JavaScript)</b>.</li>
         <li>⚙️ Expandindo a base de dados estudando o Back-End com <b>Python</b> e <b>Java</b>.</li>
         <li>🤖 Entusiasta de <b>Robótica</b> e montagem de <b>Setups e Hardware</b> (sempre de olho nas peças novas!).</li>
