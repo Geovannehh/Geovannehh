@@ -63,18 +63,33 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
 
 ### 📊 Minhas Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Geovannehh&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovannehh&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="Linguagens mais usadas"/>
-</div>
+<h2 align="center">🎌 Animes Favoritos</h2>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovannehh&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=F8F8F2"
-    height="180"
-    alt="Principais linguagens"
-  />
-
-</div>
+<p align="center">
+  <a href="#" title="Attack on Titan">
+    <img src="URL_DA_IMAGEM_AOT" height="100" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" title="Jujutsu Kaisen">
+    <img src="URL_DA_IMAGEM_JJK" height="100" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" title="Demon Slayer">
+    <img src="URL_DA_IMAGEM_DEMON_SLAYER" height="100" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" title="One Piece">
+    <img src="URL_DA_IMAGEM_ONE_PIECE" height="100" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" title="Naruto">
+    <img src="URL_DA_IMAGEM_NARUTO" height="100" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" title="Solo Leveling">
+    <img src="URL_DA_IMAGEM_SOLO_LEVELING" height="100" />
+  </a>
+</p>
 
 ---
 
