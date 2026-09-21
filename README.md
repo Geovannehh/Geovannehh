@@ -171,9 +171,3 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
 <img width="1180" height="610" alt="light" src="https://github.com/user-attachments/assets/958753b5-0932-4be2-8a64-82ca53d75913" />
 <img width="1180" height="610" alt="dark" src="https://github.com/user-attachments/assets/8d47f9d1-8f71-4824-9b43-84d14015cc1d" />
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Geovannehh/Geovannehh/main/dark.svg">
-</picture>
-</div>
