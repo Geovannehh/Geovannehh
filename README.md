@@ -153,7 +153,10 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
 
 ---
 
-
+<p align="center">
+  <i>💜 Transformando ideias em código.</i>
+</p>
+<img width="1672" height="941" alt="animes-tecnologias" src="https://github.com/user-attachments/assets/779ab3a3-3791-4e28-8c58-332fc5acac88" />
 
 ---
 
@@ -275,10 +278,6 @@ Tenho interesse e experiência prática utilizando diferentes ferramentas de Int
   </a>
 </p>
 
-<p align="center">
-  <i>💜 Transformando ideias em código.</i>
-</p>
-<img width="1672" height="941" alt="animes-tecnologias" src="https://github.com/user-attachments/assets/779ab3a3-3791-4e28-8c58-332fc5acac88" />
 
 
 
