@@ -64,32 +64,27 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
 
 ### 📊 Minhas Estatísticas
 
-<h2 align="center">🎌 Animes Favoritos</h2>
+<h2 align="center">💻 Tecnologias & 🎌 Animes Favoritos</h2>
 
 <p align="center">
-  <a href="#" title="Attack on Titan">
-    <img src="URL_DA_IMAGEM_AOT" height="100" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" title="Jujutsu Kaisen">
-    <img src="URL_DA_IMAGEM_JJK" height="100" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" title="Demon Slayer">
-    <img src="URL_DA_IMAGEM_DEMON_SLAYER" height="100" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" title="One Piece">
-    <img src="URL_DA_IMAGEM_ONE_PIECE" height="100" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" title="Naruto">
-    <img src="URL_DA_IMAGEM_NARUTO" height="100" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" title="Solo Leveling">
-    <img src="URL_DA_IMAGEM_SOLO_LEVELING" height="100" />
-  </a>
+  <!-- Tecnologias -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=embarcadero&logoColor=white" alt="Delphi" />
+  
+  <br><br>
+  
+  <!-- Animes -->
+  <img src="https://img.shields.io/badge/Attack_on_Titan-5C4033?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Attack on Titan" />
+  <img src="https://img.shields.io/badge/Jujutsu_Kaisen-000000?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Jujutsu Kaisen" />
+  <img src="https://img.shields.io/badge/Demon_Slayer-10814D?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Demon Slayer" />
+  <img src="https://img.shields.io/badge/One_Piece-E53935?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="One Piece" />
+  <img src="https://img.shields.io/badge/Naruto-FF7F00?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Naruto" />
+  <img src="https://img.shields.io/badge/Solo_Leveling-3F51B5?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Solo Leveling" />
 </p>
 
 ---
