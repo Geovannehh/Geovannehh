@@ -153,12 +153,7 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
 
 ---
 
-### 📊 Painel de Controle (Stats)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Geovannehh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00FF7F&title_color=00FF7F&text_color=c9d1d9" height="160" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovannehh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=c9d1d9" height="160" alt="Linguagens mais usadas"/>
-</div>
 
 ---
 
