@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Geovane! 👋
 
-### 🖥️💻 Desenvolvedor Front-End em busca de pixel-perfection! 💻🖥️
+### 🖥️💻 Desenvolvedor Full-Stack em busca de pixel-perfection! 💻🖥️
 
 Transformando designs em experiências digitais cativantes. Sou apaixonado por criar interfaces limpas, intuitivas e bem estruturadas, unindo a criatividade do design com a lógica da programação.
 
@@ -93,7 +93,7 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovane-paixão)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/geovanneps/)
 [![Rocketseat](https://img.shields.io/badge/Rocketseat-8257E5?style=for-the-badge&logo=rocket&logoColor=white)](https://app.rocketseat.com.br/rocketid/geovane-paixao)
-[![Portfolio](https://img.shields.io/badge/Meu_Portfólio-100000?style=for-the-badge&logo=github&logoColor=white)](https://geovannehh.github.io/Web-Developer-Geovane/)
+[![Portfolio](https://img.shields.io/badge/Meu_Portfólio-100000?style=for-the-badge&logo=github&logoColor=white)](https://https://geovannehh.github.io/Portfolio/)
 
 
 <div align="center">
@@ -172,7 +172,7 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
   <a href="https://app.rocketseat.com.br/rocketid/geovane-paixao">
     <img src="https://img.shields.io/badge/Rocketseat-8257E5?style=for-the-badge&logo=rocket&logoColor=white" alt="Rocketseat">
   </a>
-  <a href="https://geovannehh.github.io/Web-Developer-Geovane/">
+  <a href="https://geovannehh.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Meu_Portfólio-100000?style=for-the-badge&logo=codeigniter&logoColor=00FF7F" alt="Portfolio">
   </a>
 </div>
@@ -188,14 +188,14 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
 <h1 align="center">👋 Olá, eu sou Geovane Paixão!</h1>
 
 <p align="center">
-  <strong>💻 Desenvolvedor Web | 🎨 Front-End | 🤖 Inteligência Artificial</strong>
+  <strong>💻 Desenvolvedor Web | 🎨 Full-Stack | 🤖 Inteligência Artificial</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/Geovannehh">
     <img src="https://img.shields.io/badge/GitHub-Geovannehh-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://geovannehh.github.io/Developer-teste/">
+  <a href="https://geovannehh.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visitar-6C2BD9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
@@ -247,7 +247,7 @@ Tenho interesse e experiência prática utilizando diferentes ferramentas de Int
 ## 🛠️ Projetos
 
 - 🌐 Desenvolvimento de sistemas web
-- 🎨 Projetos de Front-End
+- 🎨 Projetos de Front-End e Full Satck
 - 📊 Dashboards e aplicações orientadas a dados
 - 🤖 Projetos envolvendo Inteligência Artificial
 - 🔌 Projetos IoT com ESP32
