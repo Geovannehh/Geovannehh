@@ -202,17 +202,6 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
 
 ---
 
-## 💻 Tecnologias & 🎌 Animes Favoritos
-
-<p align="center">
-  <img
-    src="./assets/animes-tecnologias.png"
-    alt="Tecnologias e Animes Favoritos - Geovane Paixão"
-    width="100%"
-  />
-</p>
-
----
 
 ## 🚀 Tecnologias
 
