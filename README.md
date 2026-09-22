@@ -62,7 +62,6 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
 
 ---
 
-### 📊 Minhas Estatísticas
 
 <h2 align="center">💻 Tecnologias & 🎌 Animes Favoritos</h2>
 
@@ -186,6 +185,107 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="Pixel Art Computer" />
   <p><i>"System.out.println('Vamos construir algo incrível!');"</i></p>
 </div>
+
+
+<h1 align="center">👋 Olá, eu sou Geovane Paixão!</h1>
+
+<p align="center">
+  <strong>💻 Desenvolvedor Web | 🎨 Front-End | 🤖 Inteligência Artificial</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Geovannehh">
+    <img src="https://img.shields.io/badge/GitHub-Geovannehh-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://geovannehh.github.io/Developer-teste/">
+    <img src="https://img.shields.io/badge/Portfolio-Visitar-6C2BD9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+---
+
+## 💻 Tecnologias & 🎌 Animes Favoritos
+
+<p align="center">
+  <img
+    src="./assets/animes-tecnologias.png"
+    alt="Tecnologias e Animes Favoritos - Geovane Paixão"
+    width="100%"
+  />
+</p>
+
+---
+
+## 🚀 Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=embarcadero&logoColor=white" alt="Delphi" />
+</p>
+
+### 📚 Estudando
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+---
+
+## 🎌 Animes Favoritos
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Attack_on_Titan-5C4033?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Attack on Titan" />
+  <img src="https://img.shields.io/badge/Jujutsu_Kaisen-000000?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Jujutsu Kaisen" />
+  <img src="https://img.shields.io/badge/Demon_Slayer-10814D?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Demon Slayer" />
+  <img src="https://img.shields.io/badge/One_Piece-E53935?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="One Piece" />
+  <img src="https://img.shields.io/badge/Naruto-FF7F00?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Naruto" />
+  <img src="https://img.shields.io/badge/Solo_Leveling-3F51B5?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Solo Leveling" />
+</p>
+
+---
+
+## 🤖 Inteligência Artificial
+
+Tenho interesse e experiência prática utilizando diferentes ferramentas de Inteligência Artificial para aprendizado, desenvolvimento, produtividade, criação de projetos e exploração de novas tecnologias.
+
+---
+
+## 🛠️ Projetos
+
+- 🌐 Desenvolvimento de sistemas web
+- 🎨 Projetos de Front-End
+- 📊 Dashboards e aplicações orientadas a dados
+- 🤖 Projetos envolvendo Inteligência Artificial
+- 🔌 Projetos IoT com ESP32
+- ⚡ Sistemas de monitoramento
+- 📱 Aplicações e projetos acadêmicos
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://github.com/Geovannehh">
+    <img src="https://img.shields.io/badge/GitHub-Geovannehh-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://geovannehh.github.io/Developer-teste/">
+    <img src="https://img.shields.io/badge/Portfolio-Geovane%20Paixão-6C2BD9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+<p align="center">
+  <i>💜 Transformando ideias em código.</i>
+</p>
+<img width="1672" height="941" alt="animes-tecnologias" src="https://github.com/user-attachments/assets/779ab3a3-3791-4e28-8c58-332fc5acac88" />
+
+
 
 
    
