@@ -104,7 +104,7 @@ Aqui estão algumas das tecnologias com as quais trabalho e estudo:
 
   <!-- Animação de Texto Dinâmica -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Geovane!;Desenvolvedor+Front-End+💻;Em+busca+do+Pixel-Perfection+👾;Apaixonado+por+Tecnologia+e+Animes+🎌" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Geovane!;Desenvolvedor+Full-Stack+💻;Em+busca+do+Pixel-Perfection+👾;Apaixonado+por+Tecnologia+e+Animes+🎌" alt="Typing SVG" />
   </a>
 </div>
 
